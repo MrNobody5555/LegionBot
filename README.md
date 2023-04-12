@@ -1,0 +1,2 @@
+# LegionBot
+Discord utility bot
